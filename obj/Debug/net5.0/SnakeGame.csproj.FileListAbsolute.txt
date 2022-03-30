@@ -1,0 +1,16 @@
+C:\vsDev\SnakeGame\bin\Debug\net5.0\SnakeGame.exe
+C:\vsDev\SnakeGame\bin\Debug\net5.0\SnakeGame.deps.json
+C:\vsDev\SnakeGame\bin\Debug\net5.0\SnakeGame.runtimeconfig.json
+C:\vsDev\SnakeGame\bin\Debug\net5.0\SnakeGame.runtimeconfig.dev.json
+C:\vsDev\SnakeGame\bin\Debug\net5.0\SnakeGame.dll
+C:\vsDev\SnakeGame\bin\Debug\net5.0\ref\SnakeGame.dll
+C:\vsDev\SnakeGame\bin\Debug\net5.0\SnakeGame.pdb
+C:\vsDev\SnakeGame\obj\Debug\net5.0\SnakeGame.csproj.AssemblyReference.cache
+C:\vsDev\SnakeGame\obj\Debug\net5.0\SnakeGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\vsDev\SnakeGame\obj\Debug\net5.0\SnakeGame.AssemblyInfoInputs.cache
+C:\vsDev\SnakeGame\obj\Debug\net5.0\SnakeGame.AssemblyInfo.cs
+C:\vsDev\SnakeGame\obj\Debug\net5.0\SnakeGame.csproj.CoreCompileInputs.cache
+C:\vsDev\SnakeGame\obj\Debug\net5.0\SnakeGame.dll
+C:\vsDev\SnakeGame\obj\Debug\net5.0\ref\SnakeGame.dll
+C:\vsDev\SnakeGame\obj\Debug\net5.0\SnakeGame.pdb
+C:\vsDev\SnakeGame\obj\Debug\net5.0\SnakeGame.genruntimeconfig.cache
