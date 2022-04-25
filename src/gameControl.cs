@@ -1,9 +1,3 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 namespace TicTacToe
 {
     class gameControl
@@ -12,19 +6,21 @@ namespace TicTacToe
         GenerateBoard game = new GenerateBoard();
         public void controlHub()
         {
+            Boolean validGame = true;
+            greeting();
+            game.initBoard();
+            
+            while (validGame) {
 
-            while (true) {
-
-                greeting();
-                game.initBoard();
                 game.showBoard();
-
+                Console.WriteLine("\npick the square where you would like to place your peice");
                 placementMenu();
-                game.showBoard();
+                
             }
 
 
         }
+
 
         static void greeting() //simple greeting on program start...Contains rules.
         {
